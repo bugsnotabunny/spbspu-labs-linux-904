@@ -1,0 +1,10 @@
+3823	x86_64-linux-gnu-DESKTOP-1DB3BLM Linux 5.10.102.1 261.5500\ usecs %fill.7
+3400	x86_64-linux-gnu-DESKTOP-1DB3BLM Linux 5.10.102.1 294.1111\ usecs %fill.7
+988	x86_64-linux-gnu-DESKTOP-1DB3BLM Linux 5.10.102.1 1012.5000\ usecs %fill.7
+1074	x86_64-linux-gnu-DESKTOP-1DB3BLM Linux 5.10.102.1 930.6667\ usecs %fill.7
+2935	x86_64-linux-gnu-DESKTOP-1DB3BLM Linux 5.10.102.1 340.7176\ usecs %fill.7
+3869	x86_64-linux-gnu-DESKTOP-1DB3BLM Linux 5.10.102.1 258.4583\ usecs %fill.7
+%Title n Number of simple process creates per second
+%Title s lmbench v1.1
+%ps 16
+%ft R

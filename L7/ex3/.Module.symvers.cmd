@@ -1,0 +1,1 @@
+cmd_/home/banan/labs/linux-labs/L7/ex3/Module.symvers := sed 's/ko$$/o/' /home/banan/labs/linux-labs/L7/ex3/modules.order | scripts/mod/modpost -m -a -E  -o /home/banan/labs/linux-labs/L7/ex3/Module.symvers -e -i Module.symvers   -T -

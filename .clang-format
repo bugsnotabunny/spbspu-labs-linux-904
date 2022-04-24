@@ -1,0 +1,21 @@
+---
+BasedOnStyle: Microsoft
+IndentWidth: 2
+---
+Language: Cpp
+DerivePointerAlignment: false
+PointerAlignment: Left
+ColumnLimit: 120
+FixNamespaceComments: false
+NamespaceIndentation: All
+SortIncludes: false
+AlwaysBreakTemplateDeclarations: Yes
+SpacesInAngles: true
+BraceWrapping:
+  SplitEmptyFunction: false
+  AfterUnion: true
+SpaceBeforeCtorInitializerColon: false
+AllowAllConstructorInitializersOnNextLine: true
+ConstructorInitializerAllOnOneLineOrOnePerLine: false
+BreakConstructorInitializers: AfterColon
+SpaceBeforeInheritanceColon: false

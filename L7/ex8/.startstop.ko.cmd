@@ -1,0 +1,1 @@
+cmd_/home/banan/lab6/ex8/startstop.ko := ld -r -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/banan/lab6/ex8/startstop.ko /home/banan/lab6/ex8/startstop.o /home/banan/lab6/ex8/startstop.mod.o;  true

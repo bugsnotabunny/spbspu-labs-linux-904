@@ -1,0 +1,1 @@
+cmd_/home/banan/labs/linux-labs/L8/module/chardev.ko := ld -r -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/banan/labs/linux-labs/L8/module/chardev.ko /home/banan/labs/linux-labs/L8/module/chardev.o /home/banan/labs/linux-labs/L8/module/chardev.mod.o;  true

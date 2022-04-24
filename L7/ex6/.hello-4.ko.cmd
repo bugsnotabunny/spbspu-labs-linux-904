@@ -1,0 +1,1 @@
+cmd_/home/banan/lab6/ex6/hello-4.ko := ld -r -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/banan/lab6/ex6/hello-4.ko /home/banan/lab6/ex6/hello-4.o /home/banan/lab6/ex6/hello-4.mod.o;  true

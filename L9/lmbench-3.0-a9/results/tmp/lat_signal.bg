@@ -1,0 +1,10 @@
+1517220	x86_64-linux-gnu-DESKTOP-1DB3BLM Linux 5.10.102.1 0.6591\ usecs %fill.7
+1522070	x86_64-linux-gnu-DESKTOP-1DB3BLM Linux 5.10.102.1 0.6570\ usecs %fill.7
+489716	x86_64-linux-gnu-DESKTOP-1DB3BLM Linux 5.10.102.1 2.0420\ usecs %fill.7
+1085305	x86_64-linux-gnu-DESKTOP-1DB3BLM Linux 5.10.102.1 0.9214\ usecs %fill.7
+602265	x86_64-linux-gnu-DESKTOP-1DB3BLM Linux 5.10.102.1 1.6604\ usecs %fill.7
+1535862	x86_64-linux-gnu-DESKTOP-1DB3BLM Linux 5.10.102.1 0.6511\ usecs %fill.7
+%Title n Number of signal handlers per second
+%Title s lmbench v1.1
+%ps 16
+%ft R

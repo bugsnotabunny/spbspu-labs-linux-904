@@ -1,0 +1,16 @@
+{
+  "files.associations": {
+    "*.sh": "shellscript",
+    "stdio.h": "c",
+    "module.h": "c",
+    "kernel.h": "c",
+    "fs.h": "c",
+    "uaccess.h": "c",
+    "chardev.h": "c",
+    "fcntl.h": "c",
+    "ioctl.h": "c",
+    "ioctl_operations.h": "c",
+    "chardev-read-write.h": "c",
+    "chardev-internal-def.h": "c"
+  }
+}

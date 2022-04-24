@@ -1,0 +1,10 @@
+166667	x86_64-linux-gnu-DESKTOP-1DB3BLM Linux 5.10.102.1 6\ usecs %fill.7
+125000	x86_64-linux-gnu-DESKTOP-1DB3BLM Linux 5.10.102.1 8\ usecs %fill.7
+29412	x86_64-linux-gnu-DESKTOP-1DB3BLM Linux 5.10.102.1 34\ usecs %fill.7
+20833	x86_64-linux-gnu-DESKTOP-1DB3BLM Linux 5.10.102.1 48\ usecs %fill.7
+166667	x86_64-linux-gnu-DESKTOP-1DB3BLM Linux 5.10.102.1 6\ usecs %fill.7
+125000	x86_64-linux-gnu-DESKTOP-1DB3BLM Linux 5.10.102.1 8\ usecs %fill.7
+%Title n Number of file creates per second
+%Title s lmbench v1.1
+%ps 16
+%ft R
