@@ -15,28 +15,20 @@
 	fillval = .12		# default fill value boxes
 	xsize = 4.3		# width of the graph
 	ysize = 4.2		# height of the graph
-	n = 6
+	n = 2
 	boxpercent = 75 / 100
 	gap = xsize / n * (1 - boxpercent)
-	maxdata = 23822
+	maxdata = 24227
 	yscale = ysize / maxdata
 	xscale = xsize / maxdata
 
 # Draw the graph borders 
 	O:	box invis ht ysize wid xsize
 boxht = ysize / n * boxpercent
-box fill .7 wid 22281 * xscale with .nw at O.nw - (0, gap /2 + 0 * (ysize/n))
-"\s+122281\s0,  x86_64-linux-gnu-DESKTOP-1DB3BLM Linux 5.10.102.1,\  \s+144.8815\ usecs\s0" ljust at last box.e + .1,0
-box fill .7 wid 20764 * xscale with .nw at O.nw - (0, gap /2 + 1 * (ysize/n))
-"\s+120764\s0,  x86_64-linux-gnu-DESKTOP-1DB3BLM Linux 5.10.102.1,\  \s+148.1602\ usecs\s0" ljust at last box.e + .1,0
-box fill .7 wid 13726 * xscale with .nw at O.nw - (0, gap /2 + 2 * (ysize/n))
-"\s+113726\s0,  x86_64-linux-gnu-DESKTOP-1DB3BLM Linux 5.10.102.1,\  \s+172.8531\ usecs\s0" ljust at last box.e + .1,0
-box fill .7 wid 18699 * xscale with .nw at O.nw - (0, gap /2 + 3 * (ysize/n))
-"\s+118699\s0,  x86_64-linux-gnu-DESKTOP-1DB3BLM Linux 5.10.102.1,\  \s+153.4782\ usecs\s0" ljust at last box.e + .1,0
-box fill .7 wid 23822 * xscale with .nw at O.nw - (0, gap /2 + 4 * (ysize/n))
-"\s+123822\s0,  x86_64-linux-gnu-DESKTOP-1DB3BLM Linux 5.10.102.1,\  \s+141.9783\ usecs\s0" ljust at last box.e + .1,0
-box fill .7 wid 23752 * xscale with .nw at O.nw - (0, gap /2 + 5 * (ysize/n))
-"\s+123752\s0,  x86_64-linux-gnu-DESKTOP-1DB3BLM Linux 5.10.102.1,\  \s+142.1021\ usecs\s0" ljust at last box.e + .1,0
+box fill .7 wid 24227 * xscale with .nw at O.nw - (0, gap /2 + 0 * (ysize/n))
+"\s+124227\s0,  x86_64-linux-gnu-DESKTOP-1DB3BLM Linux 5.10.102.1,\  \s+141.2763\ usecs\s0" ljust at last box.e + .1,0
+box fill .7 wid 23969 * xscale with .nw at O.nw - (0, gap /2 + 1 * (ysize/n))
+"\s+123969\s0,  x86_64-linux-gnu-DESKTOP-1DB3BLM Linux 5.10.102.1,\  \s+141.7202\ usecs\s0" ljust at last box.e + .1,0
 ]
 box invis wid last [].wid + .5 ht last [].ht + .5 with .nw at last [].nw + (-.25, .25)
 move to last [].nw + 0,.25

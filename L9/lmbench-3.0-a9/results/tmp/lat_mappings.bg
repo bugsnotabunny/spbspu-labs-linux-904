@@ -1,9 +1,5 @@
-20000	x86_64-linux-gnu-DESKTOP-1DB3BLM Linux 5.10.102.1 50\ usecs %fill.7
-10870	x86_64-linux-gnu-DESKTOP-1DB3BLM Linux 5.10.102.1 92\ usecs %fill.7
-11628	x86_64-linux-gnu-DESKTOP-1DB3BLM Linux 5.10.102.1 86\ usecs %fill.7
-16129	x86_64-linux-gnu-DESKTOP-1DB3BLM Linux 5.10.102.1 62\ usecs %fill.7
-18519	x86_64-linux-gnu-DESKTOP-1DB3BLM Linux 5.10.102.1 54\ usecs %fill.7
-21277	x86_64-linux-gnu-DESKTOP-1DB3BLM Linux 5.10.102.1 47\ usecs %fill.7
+18868	x86_64-linux-gnu-DESKTOP-1DB3BLM Linux 5.10.102.1 53\ usecs %fill.7
+6024	x86_64-linux-gnu-DESKTOP-1DB3BLM Linux 5.10.102.1 166\ usecs %fill.7
 %Title n Number of memory mappings per second
 %Title s lmbench v1.1
 %ps 16

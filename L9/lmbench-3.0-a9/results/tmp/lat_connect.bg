@@ -1,9 +1,5 @@
-29761	x86_64-linux-gnu-DESKTOP-1DB3BLM Linux 5.10.102.1 33.6012\ usecs %fill.7
-33445	x86_64-linux-gnu-DESKTOP-1DB3BLM Linux 5.10.102.1 29.8995\ usecs %fill.7
-20864	x86_64-linux-gnu-DESKTOP-1DB3BLM Linux 5.10.102.1 47.9286\ usecs %fill.7
-28247	x86_64-linux-gnu-DESKTOP-1DB3BLM Linux 5.10.102.1 35.4026\ usecs %fill.7
-32761	x86_64-linux-gnu-DESKTOP-1DB3BLM Linux 5.10.102.1 30.5243\ usecs %fill.7
-35274	x86_64-linux-gnu-DESKTOP-1DB3BLM Linux 5.10.102.1 28.3492\ usecs %fill.7
+34805	x86_64-linux-gnu-DESKTOP-1DB3BLM Linux 5.10.102.1 28.7318\ usecs %fill.7
+32654	x86_64-linux-gnu-DESKTOP-1DB3BLM Linux 5.10.102.1 30.6245\ usecs %fill.7
 %Title n Number of local TCP socket connections per second
 %Title s lmbench v1.1
 %ps 16

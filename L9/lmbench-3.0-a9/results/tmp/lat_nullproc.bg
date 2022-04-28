@@ -1,9 +1,5 @@
-9047	x86_64-linux-gnu-DESKTOP-1DB3BLM Linux 5.10.102.1 110.5357\ usecs %fill.7
-9274	x86_64-linux-gnu-DESKTOP-1DB3BLM Linux 5.10.102.1 107.8235\ usecs %fill.7
-3289	x86_64-linux-gnu-DESKTOP-1DB3BLM Linux 5.10.102.1 304.0526\ usecs %fill.7
-4321	x86_64-linux-gnu-DESKTOP-1DB3BLM Linux 5.10.102.1 231.4062\ usecs %fill.7
-8638	x86_64-linux-gnu-DESKTOP-1DB3BLM Linux 5.10.102.1 115.7707\ usecs %fill.7
-9859	x86_64-linux-gnu-DESKTOP-1DB3BLM Linux 5.10.102.1 101.4286\ usecs %fill.7
+9315	x86_64-linux-gnu-DESKTOP-1DB3BLM Linux 5.10.102.1 107.3529\ usecs %fill.7
+3234	x86_64-linux-gnu-DESKTOP-1DB3BLM Linux 5.10.102.1 309.2260\ usecs %fill.7
 %Title n Number of process forks/exits per second
 %Title s lmbench v1.1
 %ps 16

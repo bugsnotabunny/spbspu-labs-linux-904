@@ -1,9 +1,5 @@
 -1000000	x86_64-linux-gnu-DESKTOP-1DB3BLM Linux 5.10.102.1 -1\ usecs %fill.7
 -1000000	x86_64-linux-gnu-DESKTOP-1DB3BLM Linux 5.10.102.1 -1\ usecs %fill.7
--1000000	x86_64-linux-gnu-DESKTOP-1DB3BLM Linux 5.10.102.1 -1\ usecs %fill.7
--1000000	x86_64-linux-gnu-DESKTOP-1DB3BLM Linux 5.10.102.1 -1\ usecs %fill.7
--1000000	x86_64-linux-gnu-DESKTOP-1DB3BLM Linux 5.10.102.1 -1\ usecs %fill.7
--1000000	x86_64-linux-gnu-DESKTOP-1DB3BLM Linux 5.10.102.1 -1\ usecs %fill.7
 %Title n Number of null system calls per second
 %Title s lmbench v1.1
 %ps 16
